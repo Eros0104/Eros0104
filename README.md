@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eros</h1>
-<h3 align="center">A passionate frontend developer from Brazil, currently working at Level Up!</h3>
+<h3 align="center">A passionate frontend developer from Brazil!</h3>
 <h3>Tech Stack</h3>
 
 - 🗄 &nbsp;Backend:&nbsp;
